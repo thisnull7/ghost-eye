@@ -1,0 +1,5 @@
+requirements.txt untuk tools baru:
+
+Pillow
+requests
+colorama
