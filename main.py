@@ -21,7 +21,7 @@ BANNER = f"""
 ██║   ██║██╔══██║██║   ██║╚════██║   ██║       ██╔══╝    ╚██╔╝  ██╔══╝  
 ╚██████╔╝██║  ██║╚██████╔╝███████║   ██║       ███████╗   ██║   ███████╗
  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝       ╚══════╝   ╚═╝   ╚══════╝
-{Fore.RED}[ {Fore.WHITE}GHOST EYE v1.0 {Fore.RED}] {Fore.YELLOW}Deep Image Forensic & Metadata Extractor
+{Fore.RED}[ {Fore.WHITE}GHOST EYE {Fore.RED}] {Fore.YELLOW}Deep Image Forensic & Metadata Extractor
 {Fore.RED}[ {Fore.WHITE}Created by null7 {Fore.RED}] {Fore.YELLOW}Every pixel tells a story.
 """
 
