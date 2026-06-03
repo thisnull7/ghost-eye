@@ -75,4 +75,4 @@ pip install -r requirements.txt
 python main.py
 
 Masukkan nama gambar saat diminta. Pastikan gambar berada di folder yang sama dengan main.py.
----
+
