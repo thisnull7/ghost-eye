@@ -69,3 +69,9 @@ cd ghost-eye
 
 # Install dependensi
 pip install -r requirements.txt
+
+🚀 CARA MENJALANKAN
+
+python main.py
+
+Masukkan nama gambar saat diminta. Pastikan gambar berada di folder yang sama dengan main.py.
